@@ -1,7 +1,9 @@
 # Virtual-Body-Scan
 Visual measurements and reconstruction of human body for customoriented cloth design.
+
 Version 3.0 @ 2017
 
+![alt text](https://raw.githubusercontent.com/JessicaKANG/Virtual-Body-Scan/master/Vbodyscan.png)
 
 
 The objective of this project is to reconstruct the body shape of a human customer from a video taken by standard mobile device. We are trying to implement the following approaches: 
